@@ -1,0 +1,22 @@
+{
+  "name": "10-jest-another-rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kdombrosky/jest-another-RPG.git"
+  },
+  "author": "Kayla Dombrosky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kdombrosky/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/kdombrosky/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.0.4"
+  }
+}
